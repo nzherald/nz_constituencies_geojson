@@ -1,4 +1,4 @@
-nz_regional_council_constituencies_geojson
+nz_constituencies_geojson
 ============================
 
 Census Community Board boundaries as used by Statistics New Zealand, converted to GeoJSON
@@ -8,7 +8,7 @@ Census Community Board boundaries as used by Statistics New Zealand, converted t
 Add the following to your bower.json:
 
 ```
-"nz_regional_council_constituencies_geojson": "git://github.com/nzherald/nz_community_board_geojson#1.0.0"
+"nz_constituencies_geojson": "git://github.com/nzherald/nz_community_board_geojson#1.0.0"
 ```
 
 #### Use with bower-rails:
@@ -16,7 +16,7 @@ Add the following to your bower.json:
 Add the following to your Bowerfile:
 
 ```
-asset 'nz_regional_council_constituencies_geojson', '1.0.0', github: 'nzherald/nz_community_board_geojson'
+asset 'nz_constituencies_geojson', '1.0.0', github: 'nzherald/nz_community_board_geojson'
 ```
 
 ### Contributing
