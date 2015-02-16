@@ -1,7 +1,7 @@
 nz_constituencies_geojson
 ============================
 
-Census Community Board boundaries as used by Statistics New Zealand, converted to GeoJSON
+Census Constituencies boundaries as used by Statistics New Zealand, converted to GeoJSON
 
 ### Use with Bower:
 
