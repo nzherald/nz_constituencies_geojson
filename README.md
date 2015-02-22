@@ -17,7 +17,7 @@ website](http://www.stats.govt.nz/browse_for_stats/people_and_communities/Geogra
 Add the following to your bower.json:
 
 ```
-"nz_constituencies_geojson": "git://github.com/nzherald/nz_community_board_geojson#1.0.0"
+"nz_constituencies_geojson": "git://github.com/nzherald/nz_constituencies_geojson#1.0.0"
 ```
 
 #### Use with bower-rails:
@@ -25,7 +25,7 @@ Add the following to your bower.json:
 Add the following to your Bowerfile:
 
 ```
-asset 'nz_constituencies_geojson', '1.0.0', github: 'nzherald/nz_community_board_geojson'
+asset 'nz_constituencies_geojson', '1.0.0', github: 'nzherald/nz_constituencies_geojson'
 ```
 
 ### Contributing
